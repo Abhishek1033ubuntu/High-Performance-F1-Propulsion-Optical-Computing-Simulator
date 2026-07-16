@@ -8,7 +8,7 @@ By replacing conventional forged aluminum alloys with **Carbon-Carbon (C/C) comp
 
 * **README.md**: Repository landing page and execution guide.
 * **f1_colab_simulation.py**: 8-Speed dynamic F1 Monza straight simulator (Google Colab ready).
-* **propulsion_engineering_report.md**: Comprehensive high-level propulsion white paper.
+* **High-Performance Propulsion Engineering Report.pdf**: Comprehensive high-level propulsion white paper.
 
 ---
 
@@ -57,4 +57,4 @@ The `f1_colab_simulation.py` script is a high-fidelity numerical solver that mod
 
 ## Manufacturing & Materials Protocol
 
-For physical fabrication methods of the Gyroid FGM Joint, PVD barrier layers, and optical metasurface lithography, please refer to the deep-dive [propulsion_engineering_report.md](propulsion_engineering_report.md).
+For physical fabrication methods of the Gyroid FGM Joint, PVD barrier layers, and optical metasurface lithography, please refer to the deep-dive [High-Performance Propulsion Engineering Report.pdf](High-Performance Propulsion Engineering Report.pdf).
