@@ -4,6 +4,10 @@ This repository contains the multi-physics validation models, mechanical-thermal
 
 By replacing conventional forged aluminum alloys with **Carbon-Carbon (C/C) composites**, we achieve a **40% reduction in reciprocating assembly mass**, shifting the mechanical redline of a Formula 1 V6 power unit safely to **16,000 RPM**.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21537916.svg)](https://doi.org/10.5281/zenodo.21537916)
+![Status](https://img.shields.io/badge/Status-Research_POC-orange)
+![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
+
 ## Repository Structure
 
 * **README.md**: Repository landing page and execution guide.
