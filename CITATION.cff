@@ -1,9 +1,20 @@
-cff-version: 1.0.0
-title: "High-Performance-F1-Propulsion-Optical-Computing-Simulator"
-message: "If you use this Research POC, please cite it as below."
+cff-version: 1.2.0
+message: "If you use this simulation framework or research dataset, please cite it as below."
 authors:
   - family-names: "Singh"
     given-names: "Abhishek"
     orcid: "https://orcid.org/0009-0004-6913-096X"
-version: 1.0.0
-date-released: 2026-07-16
+title: "High-Performance F1 Propulsion & Optical Computing Simulator (V3 Ultra-Reliability Architecture)"
+version: 3.0.0
+doi: 10.5281/zenodo.21537916
+date-released: 2026-07-25
+license: CC-BY-NC-ND-4.0
+repository-code: "https://github.com/Abhishek1033ubuntu/High-Performance-F1-Propulsion-Optical-Computing-Simulator"
+keywords:
+  - Formula 1
+  - Carbon-Carbon Composites
+  - Functionally Graded Materials
+  - Gyroid Lattice
+  - Optical Diagnostic
+  - Six-Nines Reliability
+  - Multi-Physics FEA
