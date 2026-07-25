@@ -1,8 +1,29 @@
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+
 Copyright (c) 2026 Abhishek Singh UIDAI: 9414 9122 9013
 
 All rights reserved.
 
-This repository contains code and related materials developed to test, demonstrate, or support proprietary intellectual property (IP). The IP includes, but is not limited to, inventions, processes, methods, algorithms, and research results associated with this work.
+================================================================================
+INTELLECTUAL PROPERTY & PROPRIETARY RIGHTS NOTICE
+================================================================================
+
+This repository contains full technical specifications, finite element analysis scripts, 
+G-code manufacturing paths, and simulation models for the V3 F1 Power Unit Piston Assembly.
+
+Under the terms of CC BY-NC-ND 4.0:
+
+1. ATTRIBUTION (BY): You must give appropriate credit to the original author, provide 
+   a link to the license, and indicate if changes were made.
+   
+2. NON-COMMERCIAL (NC): You may NOT use the material for commercial purposes, including 
+   commercial manufacturing, competitive motorsport deployment, or paid consultancy.
+   
+3. NO DERIVATIVES (ND): If you remix, transform, or build upon the material, you may 
+   NOT distribute the modified material.
+
+For full license legal code, visit:
+https://creativecommons.org/licenses/by-nc-nd/4.0/legalcodeThis repository contains code and related materials developed to test, demonstrate, or support proprietary intellectual property (IP). The IP includes, but is not limited to, inventions, processes, methods, algorithms, and research results associated with this work.
 
 Permission is hereby granted to view and study the source code for non-commercial, educational, or research purposes only. Any use, reproduction, modification, distribution, or commercialization of the underlying IP or derivative works based on this repository is strictly prohibited without prior written consent from the copyright holder.
 
