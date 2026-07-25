@@ -4,7 +4,7 @@ This repository contains the multi-physics validation models, mechanical-thermal
 
 By replacing conventional forged aluminum alloys with **High-Density Carbon-Carbon (C/C) composites** integrated with a **5.3mm Functionally Graded Gyroid (FGM) lattice**, we achieve an **8.0% reduction in reciprocating assembly mass** ($289.70\text{ g}$ total) while driving unscheduled failure risk down to **Six-Nines ($99.9999\%$) reliability standards** ($0.708\text{ PPM}$ over an $8\text{-race} / 4,000\text{ km}$ horizon).
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21537916.svg)](https://doi.org/10.5281/zenodo.21537916)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21558004.svg)](https://doi.org/10.5281/zenodo.21558004)
 ![Status](https://img.shields.io/badge/Status-V3_Verified_Production_Ready-brightgreen)
 ![Type](https://img.shields.io/badge/Type-Multi--Physics_&_CAM_Model-blue)
 ![License](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-red)
