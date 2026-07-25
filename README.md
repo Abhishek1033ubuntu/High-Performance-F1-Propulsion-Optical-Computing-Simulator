@@ -7,7 +7,7 @@ By replacing conventional forged aluminum alloys with **High-Density Carbon-Carb
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21558004.svg)](https://doi.org/10.5281/zenodo.21558004)
 ![Status](https://img.shields.io/badge/Status-V3_Verified_Production_Ready-brightgreen)
 ![Type](https://img.shields.io/badge/Type-Multi--Physics_&_CAM_Model-blue)
-![License](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-red)
+![Status](https://img.shields.io/badge/Status-Research_POC-orange)
 
 > ⚠️ **INTELLECTUAL PROPERTY & LICENSING NOTICE**  
 > Licensed under **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.  
