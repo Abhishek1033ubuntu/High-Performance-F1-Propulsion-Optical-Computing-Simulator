@@ -10,9 +10,19 @@ By replacing conventional forged aluminum alloys with **High-Density Carbon-Carb
 ![Status](https://img.shields.io/badge/Status-Research_POC-orange)
 
 > ⚠️ **INTELLECTUAL PROPERTY & LICENSING NOTICE**  
-> Licensed under **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.  
-> Commercial exploitation, competitive motorsport team deployment, unauthorized derivative works, or physical manufacturing without explicit written consent is strictly prohibited.
+PROPRIETARY SOURCE-AVAILABLE LICENSE & EULA
 
+Copyright (c) 2026 Abhishek Singh | UIDAI: 9414 9122 9013
+Location: Madhya Pradesh, India
+Contact: abhishek1033@gmail.com | abhishek.s@live.in
+
+================================================================================
+INTELLECTUAL PROPERTY & PROPRIETARY RIGHTS NOTICE
+================================================================================
+
+This repository contains code, simulation models, finite element analysis scripts, 
+G-code manufacturing paths, and proprietary intellectual property (IP) associated with 
+the V3 F1 Power Unit Piston Assembly.
 ---
 
 ## 📁 Repository Structure
