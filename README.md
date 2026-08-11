@@ -1,13 +1,16 @@
 # High-Performance F1 Propulsion & Optical Computing Simulator (V3 Ultra-Reliability Release)
 
-This repository contains the multi-physics validation models, mechanical-thermal FEA solvers, 5-axis G-code toolpath verifiers, and 53-lap Monza Grand Prix telemetry for a next-generation high-RPM internal combustion power unit.
-
-By replacing conventional forged aluminum alloys with **High-Density Carbon-Carbon (C/C) composites** integrated with a **5.3mm Functionally Graded Gyroid (FGM) lattice**, we achieve an **8.0% reduction in reciprocating assembly mass** ($289.70\text{ g}$ total) while driving unscheduled failure risk down to **Six-Nines ($99.9999\%$) reliability standards** ($0.708\text{ PPM}$ over an $8\text{-race} / 4,000\text{ km}$ horizon).
+---
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21558004.svg)](https://doi.org/10.5281/zenodo.21558004)
 ![Status](https://img.shields.io/badge/Status-V3_Verified_Production_Ready-brightgreen)
 ![Type](https://img.shields.io/badge/Type-Multi--Physics_&_CAM_Model-blue)
 ![Status](https://img.shields.io/badge/Status-Research_POC-orange)
+
+---
+This repository contains the multi-physics validation models, mechanical-thermal FEA solvers, 5-axis G-code toolpath verifiers, and 53-lap Monza Grand Prix telemetry for a next-generation high-RPM internal combustion power unit.
+
+By replacing conventional forged aluminum alloys with **High-Density Carbon-Carbon (C/C) composites** integrated with a **5.3mm Functionally Graded Gyroid (FGM) lattice**, we achieve an **8.0% reduction in reciprocating assembly mass** ($289.70\text{ g}$ total) while driving unscheduled failure risk down to **Six-Nines ($99.9999\%$) reliability standards** ($0.708\text{ PPM}$ over an $8\text{-race} / 4,000\text{ km}$ horizon).
 
 > ⚠️ **INTELLECTUAL PROPERTY & LICENSING NOTICE**  
 PROPRIETARY SOURCE-AVAILABLE LICENSE & EULA
