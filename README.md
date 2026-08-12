@@ -1,6 +1,5 @@
 # High-Performance F1 Propulsion & Optical Computing Simulator (V3 Ultra-Reliability Release)
 
----
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21558004.svg)](https://doi.org/10.5281/zenodo.21558004)
 ![Status](https://img.shields.io/badge/Status-V3_Verified_Production_Ready-brightgreen)
@@ -92,3 +91,5 @@ For shop-floor prototype manufacturing, the repository includes full 5-axis CNC 
 * **LPBF Additive Build Parameters:** $380\text{ W}$ Yb-fiber laser, $1,200\text{ mm/s}$ scan speed, and $30\,\mu\text{m}$ layer steps for the Cu-Cr-Zr Gyroid core.
 
 For complete fabrication protocols and deep-dive FEA derivations, refer to the [High-Performance Propulsion Engineering Report.pdf](High-Performance Propulsion Engineering Report.pdf).
+
+Note on References & IP: Detailed citations and literature references are restricted to protect Intellectual Property. See References.md for details or to request access.
