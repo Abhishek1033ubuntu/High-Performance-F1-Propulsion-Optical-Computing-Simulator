@@ -6,7 +6,6 @@
 ![Type](https://img.shields.io/badge/Type-Multi--Physics_&_CAM_Model-blue)
 ![Status](https://img.shields.io/badge/Status-Research_POC-orange)
 
-
 ---
 This repository contains the multi-physics validation models, mechanical-thermal FEA solvers, 5-axis G-code toolpath verifiers, and 53-lap Monza Grand Prix telemetry for a next-generation high-RPM internal combustion power unit.
 
