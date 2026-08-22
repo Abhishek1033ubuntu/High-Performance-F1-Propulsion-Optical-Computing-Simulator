@@ -26,7 +26,6 @@ the V3 F1 Power Unit Piston Assembly.
 ## 📁 Repository Structure
 
 * **`README.md`**: Primary repository landing page, architecture guide, and telemetry documentation.
-* **`LICENSE`**: CC BY-NC-ND 4.0 legal code and non-commercial usage restrictions.
 * **`f1_colab_simulation.py`**: Multi-physics Monza Grand Prix stint solver, G-code modal parser, and thermal-strain verifier (Google Colab ready).
 * **`CITATION.cff`**: Machine-readable BibTeX and citation metadata for academic referencing.
 * **`High-Performance Propulsion Engineering Report.pdf`**: Comprehensive technical white paper detailing additive manufacturing (LPBF) and material characterizations.
