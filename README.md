@@ -1,7 +1,6 @@
 # High-Performance F1 Propulsion & Optical Computing Simulator (V3 Ultra-Reliability Release)
 
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21558004.svg)](https://doi.org/10.5281/zenodo.21558004)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21558004-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.21558004)
 ![Status](https://img.shields.io/badge/Status-V3_Verified_Production_Ready-brightgreen)
 ![Type](https://img.shields.io/badge/Type-Multi--Physics_&_CAM_Model-blue)
 ![Status](https://img.shields.io/badge/Status-Research_POC-orange)
