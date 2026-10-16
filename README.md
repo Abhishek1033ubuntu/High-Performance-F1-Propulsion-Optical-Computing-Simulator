@@ -10,16 +10,6 @@ This repository contains the multi-physics validation models, mechanical-thermal
 
 By replacing conventional forged aluminum alloys with **High-Density Carbon-Carbon (C/C) composites** integrated with a **5.3mm Functionally Graded Gyroid (FGM) lattice**, we achieve an **8.0% reduction in reciprocating assembly mass** ($289.70\text{ g}$ total) while driving unscheduled failure risk down to **Six-Nines ($99.9999\%$) reliability standards** ($0.708\text{ PPM}$ over an $8\text{-race} / 4,000\text{ km}$ horizon).
 
-> ⚠️ **INTELLECTUAL PROPERTY & LICENSING NOTICE**  
-PROPRIETARY SOURCE-AVAILABLE LICENSE & EULA
-
-Copyright (c) 2026 Abhishek Singh | UIDAI: 9414 9122 9013
-Location: Madhya Pradesh, India
-Contact: abhishek1033@gmail.com | abhishek.s@live.in
-
-This repository contains code, simulation models, finite element analysis scripts, 
-G-code manufacturing paths, and proprietary intellectual property (IP) associated with 
-the V3 F1 Power Unit Piston Assembly.
 ---
 
 ## 📁 Repository Structure
