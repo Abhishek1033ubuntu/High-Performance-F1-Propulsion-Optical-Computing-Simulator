@@ -58,6 +58,49 @@ Executing `f1_v4_monza_simulation.py` generates high-resolution 4-panel telemetr
 
 ---
 
+## Repository Directory Structure
+
+```
+High-Performance-F1-Propulsion-Optical-Computing-Simulator/
+├── .github/
+│   └── workflows/
+│       ├── python-ci.yml           # Automated unit tests (Python 3.10 / 3.11)
+│       └── docs-gh-pages.yml       # GitHub Pages documentation deployment
+├── data/
+│   ├── bom/
+│   │   ├── f1_v4_chassis_bom.yaml  # Monocoque & micro-component BOM schema
+│   │   └── engine_block_spec.json  # Additive Al-Li MMC material specification
+│   └── telemetry/
+│       └── monza_baseline.csv      # Monza reference lap trajectory dataset
+├── docs/
+│   ├── index.md                    # Core architecture & mathematical derivations
+│   ├── fia_compliance.md          # Technical analysis of FIA Article 4/5 limits
+│   └── materials_api.md            # Sub-Atomic Materials Suite integration guide
+├── examples/
+│   ├── colab_quickstart.ipynb      # One-click interactive Google Colab notebook
+│   └── monza_stint_simulation.py  # Standalone Monza 53-lap stint execution script
+├── src/
+│   └── f1_propulsion_sim/          # Main Python Package Root
+│       ├── __init__.py
+│       ├── cli.py                  # Command-line runner (`f1-sim`)
+│       ├── cam/                    # 5-Axis toolpath & G-code verifier
+│       ├── materials/              # BOM parser & sub-atomic suite bridge
+│       ├── solvers/                # Monza stint, thermal FEA, & braking dynamics
+│       └── visualization/          # Analytical dark-theme telemetry plotting engine
+├── tests/
+│   ├── test_bom_parser.py          # BOM schema & mass delta unit tests
+│   ├── test_gcode_verifier.py      # CNC toolpath array mismatch unit tests
+│   └── test_monza_solver.py        # Dual-mode physics & lap time unit tests
+├── .gitignore                      # Python build & image artifact rules
+├── CITATION.cff                    # Zenodo citation metadata
+├── LICENSE                         # Apache License 2.0
+├── NOTICE                          # Copyright & attribution notice
+├── pyproject.toml                  # PEP 621 package build configuration
+├── README.md                       # Main landing page with Colab badge & benchmarks
+└── requirements.txt                # Fixed dependency list
+```
+
+---
 ## 🛠️ How to Execute on Google Colab / Local Python
 
 1. Open a new notebook in [Google Colab](https://colab.research.google.com).
