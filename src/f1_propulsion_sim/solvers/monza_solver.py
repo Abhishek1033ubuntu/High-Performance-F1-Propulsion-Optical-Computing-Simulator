@@ -20,7 +20,7 @@ class F1MultiPhysicsSolver:
         else:
             raise ValueError(f"Unknown mode: {mode}")
 
-    def solve((self) -> dict:
+    def solve(self) -> dict:
         baseline_lap = 81.050
         optimized_lap = baseline_lap - self.lap_time_gain_s
         return {
