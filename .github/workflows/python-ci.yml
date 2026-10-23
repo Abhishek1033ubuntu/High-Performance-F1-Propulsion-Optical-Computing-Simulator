@@ -22,15 +22,14 @@ jobs:
       with:
         python-version: ${{ matrix.python-version }}
 
-    - name: Install Dependencies
+    - name: Install Package & Dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install numpy matplotlib pyyaml pytest
+        pip install -e .
+        pip install pytest
 
-    - name: Verify Dual-Mode Simulation Execution
+    - name: Run Test Suite
+      env:
+        MPLBACKEND: Agg
       run: |
-        python f1_v4_monza_simulation.py
-
-    - name: Check Generated Telemetry Graphics Output
-      run: |
-        test -f f1_v4_monza_telemetry_simulation.png && echo "Telemetry Image Rendered Successfully"
+        pytest
