@@ -1,12 +1,10 @@
 cff-version: 1.2.0
-title: "High-Performance F1 Propulsion & Optical Computing Simulator (V4 Release)"
-message: "If you use this software or computational material models in academic research, please cite it as below."
-type: software
+message: "If you use this software, please cite it as below."
 authors:
   - family-names: "Singh"
     given-names: "Abhishek"
-orcid: "https://orcid.org/0009-0004-6913-096X"
-repository-code: "https://github.com/Abhishek1033ubuntu/High-Performance-F1-Propulsion-Optical-Computing-Simulator"
-license: Apache-2.0
+title: "High-Performance F1 Propulsion & Optical Computing Simulator"
 version: "4.0.0"
 date-released: "2026-10-23"
+repository-code: "https://github.com/Abhishek1033ubuntu/High-Performance-F1-Propulsion-Optical-Computing-Simulator"
+license: Apache-2.0
