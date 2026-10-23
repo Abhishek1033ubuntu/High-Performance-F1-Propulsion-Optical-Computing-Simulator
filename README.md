@@ -118,4 +118,7 @@ High-Performance-F1-Propulsion-Optical-Computing-Simulator/
 * **AI Engineering Collaboration:** Co-developed and validated in collaboration with **Team Gemini AI**.
 * **Sponsorship & Commercial Support:** To support advanced material modeling and repository upgrades, consider contributing via [GitHub Sponsors](https://github.com/sponsors/Abhishek1033ubuntu) or [PayPal Support](https://paypal.me/Abhishek1033ubuntu).
 
-Copyright (c) 2026 Abhishek Singh. All rights reserved.
+Copyright 2026 Abhishek Singh
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
