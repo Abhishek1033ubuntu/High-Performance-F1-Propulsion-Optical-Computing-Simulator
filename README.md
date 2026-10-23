@@ -1,7 +1,7 @@
 # High-Performance F1 Propulsion & Optical Computing Simulator (V4 Multi-Mode Release)
 
 [![AI Collaboration - Team Gemini](https://img.shields.io/badge/AI%20Collaboration-Team%20Gemini-8A2BE2?style=for-the-badge&logo=google&logoColor=white)](https://gemini.google.com)
-[![License: Proprietary Source-Available](https://img.shields.io/badge/License-Proprietary%20EULA-blue?style=for-the-badge)](LICENSE)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge)](LICENSE)
 [![Python Version](https://img.shields.io/badge/Python-3.10%2B-brightgreen?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Sponsor Project](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Abhishek1033ubuntu)
 [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal%20Me-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Abhishek1033ubuntu)
