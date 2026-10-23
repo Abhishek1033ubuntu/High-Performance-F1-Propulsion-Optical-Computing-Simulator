@@ -5,7 +5,8 @@
 [![Python Version](https://img.shields.io/badge/Python-3.10%2B-brightgreen?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Sponsor Project](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Abhishek1033ubuntu)
 [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal%20Me-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Abhishek1033ubuntu)
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23602052-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.23602052)  
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23602052-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.23602052) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Abhishek1033ubuntu/High-Performance-F1-Propulsion-Optical-Computing-Simulator/blob/main/examples/colab_quickstart.ipynb)  
 
 
 This repository contains multi-physics validation models, mechanical-thermal FEA solvers, G-code toolpath verifiers, and 53-lap Monza Grand Prix telemetry for next-generation Formula 1 power units and chassis structures.
