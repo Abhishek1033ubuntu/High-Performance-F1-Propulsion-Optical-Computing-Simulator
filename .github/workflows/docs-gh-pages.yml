@@ -23,17 +23,13 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v3
+      - name: Disable Jekyll Processing
+        run: touch docs/.nojekyll
 
-      - name: Build Pages with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./docs
-          destination: ./_site
-
-      - name: Upload Artifact
+      - name: Upload Documentation Artifact
         uses: actions/upload-pages-artifact@v2
+        with:
+          path: 'docs'
 
       - name: Deploy to GitHub Pages
         id: deployment
