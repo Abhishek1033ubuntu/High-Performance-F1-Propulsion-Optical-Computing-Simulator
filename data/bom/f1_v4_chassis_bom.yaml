@@ -1,0 +1,59 @@
+chassis_assembly:
+  metadata:
+    assembly_id: "F1-V4-CHASSIS-MONO-2026"
+    target_vehicle: "High-Performance-F1-Propulsion-Optical-Computing-Simulator"
+    baseline_vehicle_mass_kg: 798.0
+  subassemblies:
+    - id: "SUB-00-POWERUNIT"
+      name: "ICE Engine Block & Cylinder Assembly"
+      components:
+        - name: "Additive Al-Li MMC Engine Block (Gyroid Jacket)"
+          quantity: 1
+          baseline_mass_g: 28500.0
+          optimized_mass_g: 16200.0
+          subatomic_material_id: "MAT-ALLI-MMC-GYROID-01"
+
+    - id: "SUB-01-MONOCOQUE"
+      name: "Primary Survival Cell"
+      components:
+        - name: "Driver Survival Cell Shell"
+          quantity: 1
+          baseline_mass_g: 48500.0
+          volume_cm3: 18450.0
+          density_g_cm3: 1.85
+          subatomic_material_id: "MAT-CC-FGM-GYROID-53"
+
+        - name: "Airbox & Roll Structure"
+          quantity: 1
+          baseline_mass_g: 11200.0
+          volume_cm3: 3200.0
+          density_g_cm3: 2.70
+          subatomic_material_id: "MAT-TIAL-NANOHYBRID-09"
+
+    - id: "SUB-02-SUSPENSION"
+      name: "Suspension Assemblies"
+      components:
+        - name: "Front Upper Aero-Wishbone Pair"
+          quantity: 2
+          baseline_mass_g: 3450.0
+          volume_cm3: 1150.0
+          density_g_cm3: 1.55
+          subatomic_material_id: "MAT-CFRP-HIGHMOD-X1"
+
+    - id: "SUB-03-MICRO-COMPONENTS"
+      name: "Cumulative Fasteners & Wiring Looms"
+      components:
+        - name: "Hollow-Shank Titanium Fasteners"
+          quantity: 2200
+          baseline_mass_g: 18500.0
+          optimized_mass_g: 11800.0
+
+        - name: "CNT Signal Wiring & Connectors"
+          quantity: 1
+          baseline_mass_g: 12200.0
+          optimized_mass_g: 6900.0
+
+        - name: "PEEK-Ti Hydraulic Fittings"
+          quantity: 95
+          baseline_mass_g: 7800.0
+          optimized_mass_g: 4400.0
