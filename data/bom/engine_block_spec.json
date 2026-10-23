@@ -1,0 +1,19 @@
+{
+  "material_id": "MAT-ALLI-MMC-GYROID-01",
+  "name": "Al-Li-Sc-Zr / SiCp Additive Metal Matrix Composite",
+  "density_g_cm3": 2.52,
+  "yield_strength_25C_mpa": 580.0,
+  "yield_strength_300C_mpa": 420.0,
+  "elastic_modulus_gpa": 92.5,
+  "thermal_conductivity_w_mk": 155.0,
+  "cylinder_coating": {
+    "type": "PTWA ta-C Nanocomposite",
+    "thickness_um": 120.0,
+    "friction_coefficient_mu": 0.015
+  },
+  "cooling_jacket": {
+    "type": "3D Gyroid TPMS Lattice",
+    "unit_cell_size_mm": 2.8,
+    "relative_density_range": [0.28, 0.65]
+  }
+}
