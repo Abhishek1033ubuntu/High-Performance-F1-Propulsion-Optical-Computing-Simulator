@@ -1,36 +1,42 @@
-name: Deploy Documentation to GitHub Pages
+name: F1 Propulsion Simulator CI
 
 on:
   push:
     branches: [ "main", "master" ]
-
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
+  pull_request:
+    branches: [ "main", "master" ]
 
 jobs:
-  deploy-docs:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  build-and-test:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.10", "3.11"]
+
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+    - name: Checkout Repository
+      uses: actions/checkout@v3
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v3
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v4
+      with:
+        python-version: ${{ matrix.python-version }}
 
-      - name: Upload Documentation Artifact
-        uses: actions/upload-pages-artifact@v2
-        with:
-          path: 'docs'
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install numpy matplotlib pyyaml pytest
+        pip install -e . || true
 
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v2
+    - name: Test Main Dual-Mode Simulation
+      env:
+        MPLBACKEND: Agg
+      run: |
+        python f1_v4_monza_simulation.py
+
+    - name: Run Pytest Suite
+      env:
+        MPLBACKEND: Agg
+        PYTHONPATH: src:.
+      run: |
+        pytest
