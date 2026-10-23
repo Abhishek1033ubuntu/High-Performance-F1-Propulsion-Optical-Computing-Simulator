@@ -54,7 +54,7 @@ This simulator bridges official motorsport compliance with physics-first theoret
 
 Executing `f1_v4_monza_simulation.py` generates high-resolution 4-panel telemetry plots comparing both modes side-by-side:
 
-![F1 V4 Dual Specification Monza Telemetry](f1_v4_monza_telemetry_simulation.png)
+![F1 V4 Dual Specification Monza Telemetry](docs/assets/f1_v4_monza_telemetry_simulation.png)
 
 ---
 
