@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: "Singh"
     given-names: "Abhishek"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
+    orcid: "https://orcid.org/0009-0004-6913-096X"
 repository-code: "https://github.com/Abhishek1033ubuntu/High-Performance-F1-Propulsion-Optical-Computing-Simulator"
 license: Apache-2.0
 version: "4.0.0"
