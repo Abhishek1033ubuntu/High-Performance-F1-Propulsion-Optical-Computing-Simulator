@@ -112,6 +112,28 @@ High-Performance-F1-Propulsion-Optical-Computing-Simulator/
 4. Run the cell (`Shift + Enter`) to output engineering logs and save the analytical plot.
 
 ---
+## Citation
+
+If you use this simulation framework, multi-physics models, or sub-atomic material specifications in academic or industrial research, please cite it as follows:
+
+```bibtex
+@software{Singh_F1_Propulsion_Simulator_2026,
+  author       = {Singh, Abhishek},
+  title        = {{High-Performance F1 Propulsion \& Optical Computing Simulator}},
+  month        = oct,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v4.0.0},
+  doi          = {10.5281/zenodo.23602052},
+  url          = {[https://doi.org/10.5281/zenodo.23602052](https://doi.org/10.5281/zenodo.23602052)}
+}
+
+```
+
+APA Style
+Singh, A. (2026). High-Performance F1 Propulsion & Optical Computing Simulator (Version 4.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23602052
+
+---
 
 ## 🤝 Development & Sponsorship
 
