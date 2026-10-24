@@ -130,8 +130,8 @@ If you use this simulation framework, multi-physics models, or sub-atomic materi
 
 ```
 
-APA Style
-Singh, A. (2026). High-Performance F1 Propulsion & Optical Computing Simulator (Version 4.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23602052
+APA Style  
+> Singh, A. (2026). High-Performance F1 Propulsion & Optical Computing Simulator (Version 4.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23602052
 
 ---
 
