@@ -9,7 +9,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Abhishek1033ubuntu/High-Performance-F1-Propulsion-Optical-Computing-Simulator/blob/main/examples/colab_quickstart.ipynb)  
 
 
-This repository contains multi-physics validation models, mechanical-thermal FEA solvers, G-code toolpath verifiers, and 53-lap Monza Grand Prix telemetry for next-generation Formula 1 power units and chassis structures.
+This repository contains 'multi-physics validation models', mechanical-thermal FEA solvers, G-code toolpath verifiers, and 53-lap Monza Grand Prix telemetry for next-generation Formula 1 power units and chassis structures.
 
 In the **V4 Multi-Mode Release**, developed in collaboration with **Team Gemini AI**, we integrate sub-atomic material discovery profiles from the [`subatomic-materials-suite`](https://github.com/Abhishek1033ubuntu/subatomic-materials-suite) across two distinct runtime modes: **FIA Regulated Strict** and **Sub-Atomic Unrestricted Ultra**.
 
